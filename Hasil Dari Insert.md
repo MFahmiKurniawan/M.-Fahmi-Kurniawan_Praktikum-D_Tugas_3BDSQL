@@ -3,8 +3,8 @@
 - Nama : M.Fahmi Kurniawan
 - NIM : 225150600111014
 
-1.Insert Nilai Fakultas :
-![Gambar sintaks memasukan nilai insert Fakultas](Sintaks1Insert.png)<br>
+1.Insert Nilai Fakultas :<br>
+![Gambar sintaks memasukan nilai insert Fakultas](Sintaks1Insert.png)
 Hasil : 
 ![Gambar hasil memasukan nilai insert Fakultas](Hasil1Insert.png)
 
